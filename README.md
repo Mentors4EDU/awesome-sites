@@ -6,6 +6,7 @@
 ## For Fun
 
 ## Charities
-1. Coptic Orphans: https://copticorphans.org/
+1. Copts in Need: https://coptsinneed.org/
+2. Coptic Orphans: https://copticorphans.org/
 
 ## For Developers
