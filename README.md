@@ -1,10 +1,10 @@
 # awesome-sites
-Some awesome websites
+*Some awesome websites*
 
-# Games
+## Games
 
-# For Fun
+## For Fun
 
-# Charities
+## Charities
 
-# For Developers
+## For Developers
