@@ -18,7 +18,8 @@
 
 ## Freelance
 10. Fiverr: https://fiverr.com
+11. Upwork: https://www.upwork.com/
 
 ## For Developers
-11. PyPi: https://pypi.org/  
-12. PyPy: https://www.pypy.org/
+12. PyPi: https://pypi.org/  
+13. PyPy: https://www.pypy.org/
