@@ -10,20 +10,20 @@
 4. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
-3. Live Action: https://www.liveaction.org/
-4. Copts in Need: https://coptsinneed.org/
-5. Joshua Project: https://joshuaproject.net/
-6. Coptic Orphans: https://copticorphans.org/
-7. Jews for Jesus: https://jewsforjesus.org/
-8. Clarion Project: https://clarionproject.org/
-9. Fight the New Drug: https://fightthenewdrug.org/
-10. The Voice of the Martyrs: https://www.persecution.com/
+5. Live Action: https://www.liveaction.org/
+6. Copts in Need: https://coptsinneed.org/
+7. Joshua Project: https://joshuaproject.net/
+8. Coptic Orphans: https://copticorphans.org/
+9. Jews for Jesus: https://jewsforjesus.org/
+10. Clarion Project: https://clarionproject.org/
+11. Fight the New Drug: https://fightthenewdrug.org/
+12. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
-11. Fiverr: https://fiverr.com
-12. Upwork: https://www.upwork.com/
-13. Seoclerks: https://www.seoclerks.com/
+13. Fiverr: https://fiverr.com
+14. Upwork: https://www.upwork.com/
+15. Seoclerks: https://www.seoclerks.com/
 
 ## For Developers
-14. PyPi: https://pypi.org/  
-15. PyPy: https://www.pypy.org/
+16. PyPi: https://pypi.org/  
+17. PyPy: https://www.pypy.org/
