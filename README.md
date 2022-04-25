@@ -20,4 +20,5 @@
 10. Fiverr: https://fiverr.com
 
 ## For Developers
-11. PyPy: https://www.pypy.org/
+11. PyPi: https://pypi.org/  
+12. PyPy: https://www.pypy.org/
