@@ -8,20 +8,20 @@
 ## For Fun
 
 ## Charities
-2. Live Action: https://www.liveaction.org/
-3. Copts in Need: https://coptsinneed.org/
-4. Joshua Project: https://joshuaproject.net/
-5. Coptic Orphans: https://copticorphans.org/
-6. Jews for Jesus: https://jewsforjesus.org/
-7. Clarion Project: https://clarionproject.org/
-8. Fight the New Drug: https://fightthenewdrug.org/
-9. The Voice of the Martyrs: https://www.persecution.com/
+3. Live Action: https://www.liveaction.org/
+4. Copts in Need: https://coptsinneed.org/
+5. Joshua Project: https://joshuaproject.net/
+6. Coptic Orphans: https://copticorphans.org/
+7. Jews for Jesus: https://jewsforjesus.org/
+8. Clarion Project: https://clarionproject.org/
+9. Fight the New Drug: https://fightthenewdrug.org/
+10. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
-10. Fiverr: https://fiverr.com
-11. Upwork: https://www.upwork.com/
-12. Seoclerks: https://www.seoclerks.com/
+11. Fiverr: https://fiverr.com
+12. Upwork: https://www.upwork.com/
+13. Seoclerks: https://www.seoclerks.com/
 
 ## For Developers
-13. PyPi: https://pypi.org/  
-14. PyPy: https://www.pypy.org/
+14. PyPi: https://pypi.org/  
+15. PyPy: https://www.pypy.org/
