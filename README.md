@@ -3,6 +3,7 @@
 
 ## Games
 1. Addicting Games: https://www.addictinggames.com/
+2. QuickFlashGames.com: https://www.quickflashgames.com/
 
 ## For Fun
 
