@@ -21,8 +21,10 @@
 
 ## Freelance
 13. Fiverr: https://fiverr.com
-14. Upwork: https://www.upwork.com/
-15. Seoclerks: https://www.seoclerks.com/
+14. Toptal: https://www.toptal.com/
+15. Upwork: https://www.upwork.com/
+16. 
+17. Seoclerks: https://www.seoclerks.com/
 
 ## For Developers
 16. PyPi: https://pypi.org/  
