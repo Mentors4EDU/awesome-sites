@@ -6,7 +6,8 @@
 2. QuickFlashGames.com: https://www.quickflashgames.com/
 
 ## For Fun
-3. Pexels: https://www.pexels.com/
+3. Etsy: https://www.etsy.com
+4. Pexels: https://www.pexels.com/
 4. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
