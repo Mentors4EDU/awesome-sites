@@ -16,7 +16,7 @@
 8. Joshua Project: https://joshuaproject.net/
 9. Coptic Orphans: https://copticorphans.org/
 10. Jews for Jesus: https://jewsforjesus.org/
-10. Clarion Project: https://clarionproject.org/
+11. Clarion Project: https://clarionproject.org/
 11. Fight the New Drug: https://fightthenewdrug.org/
 12. The Voice of the Martyrs: https://www.persecution.com/
 
