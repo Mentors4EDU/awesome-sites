@@ -18,10 +18,10 @@
 10. Jews for Jesus: https://jewsforjesus.org/
 11. Clarion Project: https://clarionproject.org/
 12. Fight the New Drug: https://fightthenewdrug.org/
-12. The Voice of the Martyrs: https://www.persecution.com/
+13. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
-13. Fiverr: https://fiverr.com
+14. Fiverr: https://fiverr.com
 14. Toptal: https://www.toptal.com/
 15. Upwork: https://www.upwork.com/
 16. Seoclerks: https://www.seoclerks.com/
