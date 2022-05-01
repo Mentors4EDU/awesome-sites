@@ -25,7 +25,7 @@
 15. Toptal: https://www.toptal.com/
 16. Upwork: https://www.upwork.com/
 17. Seoclerks: https://www.seoclerks.com/
-17. Freelancer: https://www.freelancer.com/
+18. Freelancer: https://www.freelancer.com/
 
 ## For Developers
 18. PyPi: https://pypi.org/  
