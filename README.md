@@ -14,12 +14,12 @@
 ## Charities
 7. Live Action: https://www.liveaction.org/
 8. Copts in Need: https://coptsinneed.org/
-8. Joshua Project: https://joshuaproject.net/
-9. Coptic Orphans: https://copticorphans.org/
-10. Jews for Jesus: https://jewsforjesus.org/
-11. Clarion Project: https://clarionproject.org/
-12. Fight the New Drug: https://fightthenewdrug.org/
-13. The Voice of the Martyrs: https://www.persecution.com/
+9. Joshua Project: https://joshuaproject.net/
+10. Coptic Orphans: https://copticorphans.org/
+11. Jews for Jesus: https://jewsforjesus.org/
+12. Clarion Project: https://clarionproject.org/
+13. Fight the New Drug: https://fightthenewdrug.org/
+14. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
 14. Fiverr: https://fiverr.com
