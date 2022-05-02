@@ -9,11 +9,11 @@
 3. Etsy: https://www.etsy.com
 4. Pexels: https://www.pexels.com/
 5. Twitter: https://www.twitter.com
-5. Thingiverse: https://www.thingiverse.com/
+6. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
-6. Live Action: https://www.liveaction.org/
-7. Copts in Need: https://coptsinneed.org/
+7. Live Action: https://www.liveaction.org/
+8. Copts in Need: https://coptsinneed.org/
 8. Joshua Project: https://joshuaproject.net/
 9. Coptic Orphans: https://copticorphans.org/
 10. Jews for Jesus: https://jewsforjesus.org/
