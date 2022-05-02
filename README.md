@@ -29,6 +29,6 @@
 19. Freelancer: https://www.freelancer.com/
 
 ## For Developers
-19. PyPi: https://pypi.org/  
-20. PyPy: https://www.pypy.org/
+20. PyPi: https://pypi.org/  
+21. PyPy: https://www.pypy.org/
 21. Stack Overflow: https://stackoverflow.com/
