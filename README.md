@@ -33,4 +33,5 @@
 21. PyPi: https://pypi.org/  
 22. PyPy: https://www.pypy.org/
 23. GitHub: https://www.github.com/
-24. Stack Overflow: https://stackoverflow.com/
+24. Crates.io: https://crates.io/
+25. Stack Overflow: https://stackoverflow.com/
