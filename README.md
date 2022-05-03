@@ -30,7 +30,7 @@
 
 ## For Developers
 20: npm: https://www.npmjs.com/
-20. PyPi: https://pypi.org/  
-21. PyPy: https://www.pypy.org/
-22. GitHub: https://www.github.com/
-23. Stack Overflow: https://stackoverflow.com/
+21. PyPi: https://pypi.org/  
+22. PyPy: https://www.pypy.org/
+23. GitHub: https://www.github.com/
+24. Stack Overflow: https://stackoverflow.com/
