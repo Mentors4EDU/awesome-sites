@@ -29,6 +29,7 @@
 19. Freelancer: https://www.freelancer.com/
 
 ## For Developers
+20: npm: https://www.npmjs.com/
 20. PyPi: https://pypi.org/  
 21. PyPy: https://www.pypy.org/
 22. GitHub: https://www.github.com/
