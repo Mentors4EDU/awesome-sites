@@ -30,9 +30,10 @@
 20. Freelancer: https://www.freelancer.com/
 
 ## For Developers
-20. npm: https://www.npmjs.com/
-21. PyPi: https://pypi.org/  
-22. PyPy: https://www.pypy.org/
-23. GitHub: https://www.github.com/
-24. Crates.io: https://crates.io/
-25. Stack Overflow: https://stackoverflow.com/
+21. npm: https://www.npmjs.com/
+22. PyPi: https://pypi.org/  
+23. PyPy: https://www.pypy.org/
+24. GitHub: https://www.github.com/
+25. GitLab: https://www.gitlab.com
+26. Crates.io: https://crates.io/
+27. Stack Overflow: https://stackoverflow.com/
