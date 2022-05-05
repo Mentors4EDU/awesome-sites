@@ -33,8 +33,7 @@
 21. npm: https://www.npmjs.com/
 22. PyPi: https://pypi.org/  
 23. PyPy: https://www.pypy.org/
-
-25. GitLab: https://www.gitlab.com
-24. GitHub: https://www.github.com/
+24. GitLab: https://www.gitlab.com
+25. GitHub: https://www.github.com/
 26. Crates.io: https://crates.io/
 27. Stack Overflow: https://stackoverflow.com/
