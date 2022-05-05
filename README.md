@@ -6,9 +6,8 @@
 2. QuickFlashGames.com: https://www.quickflashgames.com/
 
 ## For Fun
-
 3. Etsy: https://www.etsy.com
-https://www.minds.com
+4. Minds: https://www.minds.com
 4. Pexels: https://www.pexels.com/
 5. Twitter: https://www.twitter.com
 6. Thingiverse: https://www.thingiverse.com/
