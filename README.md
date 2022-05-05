@@ -23,8 +23,8 @@
 15. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
-15. Fiverr: https://fiverr.com
-16. Toptal: https://www.toptal.com/
+16. Fiverr: https://fiverr.com
+17. Toptal: https://www.toptal.com/
 17. Upwork: https://www.upwork.com/
 18. Seoclerks: https://www.seoclerks.com/
 19. Freelancer: https://www.freelancer.com/
