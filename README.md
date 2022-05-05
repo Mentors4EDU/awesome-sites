@@ -25,9 +25,9 @@
 ## Freelance
 16. Fiverr: https://fiverr.com
 17. Toptal: https://www.toptal.com/
-17. Upwork: https://www.upwork.com/
-18. Seoclerks: https://www.seoclerks.com/
-19. Freelancer: https://www.freelancer.com/
+18. Upwork: https://www.upwork.com/
+19. Seoclerks: https://www.seoclerks.com/
+20. Freelancer: https://www.freelancer.com/
 
 ## For Developers
 20. npm: https://www.npmjs.com/
