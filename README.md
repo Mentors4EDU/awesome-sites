@@ -8,9 +8,9 @@
 ## For Fun
 3. Etsy: https://www.etsy.com
 4. Minds: https://www.minds.com
-4. Pexels: https://www.pexels.com/
-5. Twitter: https://www.twitter.com
-6. Thingiverse: https://www.thingiverse.com/
+5. Pexels: https://www.pexels.com/
+6. Twitter: https://www.twitter.com
+7. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
 7. Live Action: https://www.liveaction.org/
