@@ -13,9 +13,9 @@
 7. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
-7. Live Action: https://www.liveaction.org/
-8. Copts in Need: https://coptsinneed.org/
-9. Joshua Project: https://joshuaproject.net/
+8. Live Action: https://www.liveaction.org/
+9. Copts in Need: https://coptsinneed.org/
+10. Joshua Project: https://joshuaproject.net/
 10. Coptic Orphans: https://copticorphans.org/
 11. Jews for Jesus: https://jewsforjesus.org/
 12. Clarion Project: https://clarionproject.org/
