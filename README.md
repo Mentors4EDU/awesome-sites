@@ -9,7 +9,7 @@
 3. Etsy: https://www.etsy.com
 4. Minds: https://www.minds.com
 5. Pexels: https://www.pexels.com/
-6. Twitter: https://www.twitter.com
+6. Twitter: https://www.twitter.com/
 7. Sketchfab: https://www.sketchfab.com/
 8. Thingiverse: https://www.thingiverse.com/
 
