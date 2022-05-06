@@ -38,4 +38,5 @@
 26. GitLab: https://www.gitlab.com
 27. GitHub: https://www.github.com/
 28. Crates.io: https://crates.io/
-29. Stack Overflow: https://stackoverflow.com/
+29. Bitbucket: https://bitbucket.org/
+30. Stack Overflow: https://stackoverflow.com/
