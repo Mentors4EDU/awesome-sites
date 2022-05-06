@@ -12,7 +12,6 @@
 6. Twitter: https://www.twitter.com/
 7. Sketchfab: https://www.sketchfab.com/
 8. Turbosquid: https://www.turbosquid.com/
-9. 
 10. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
