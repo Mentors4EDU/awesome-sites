@@ -25,17 +25,17 @@
 18. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
-16. Fiverr: https://fiverr.com
-17. Toptal: https://www.toptal.com/
-18. Upwork: https://www.upwork.com/
-19. Seoclerks: https://www.seoclerks.com/
-20. Freelancer: https://www.freelancer.com/
+19. Fiverr: https://fiverr.com
+20. Toptal: https://www.toptal.com/
+21. Upwork: https://www.upwork.com/
+22. Seoclerks: https://www.seoclerks.com/
+23. Freelancer: https://www.freelancer.com/
 
 ## For Developers
-21. npm: https://www.npmjs.com/
-22. PyPi: https://pypi.org/  
-23. PyPy: https://www.pypy.org/
-24. GitLab: https://www.gitlab.com
-25. GitHub: https://www.github.com/
-26. Crates.io: https://crates.io/
-27. Stack Overflow: https://stackoverflow.com/
+24. npm: https://www.npmjs.com/
+25. PyPi: https://pypi.org/  
+26. PyPy: https://www.pypy.org/
+27. GitLab: https://www.gitlab.com
+28. GitHub: https://www.github.com/
+29. Crates.io: https://crates.io/
+30. Stack Overflow: https://stackoverflow.com/
