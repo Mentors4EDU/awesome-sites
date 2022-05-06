@@ -10,8 +10,9 @@
 4. Minds: https://www.minds.com
 5. Pexels: https://www.pexels.com/
 6. Twitter: https://www.twitter.com/
-7. Sketchfab: https://www.sketchfab.com/
-8. Thingiverse: https://www.thingiverse.com/
+7. Turbosquid: https://www.turbosquid.com/
+8. Sketchfab: https://www.sketchfab.com/
+9. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
 8. Live Action: https://www.liveaction.org/
