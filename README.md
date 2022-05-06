@@ -15,14 +15,14 @@
 10. Thingiverse: https://www.thingiverse.com/
 
 ## Charities
-8. Live Action: https://www.liveaction.org/
-9. Copts in Need: https://coptsinneed.org/
-10. Joshua Project: https://joshuaproject.net/
-11. Coptic Orphans: https://copticorphans.org/
-12. Jews for Jesus: https://jewsforjesus.org/
-13. Clarion Project: https://clarionproject.org/
-14. Fight the New Drug: https://fightthenewdrug.org/
-15. The Voice of the Martyrs: https://www.persecution.com/
+11. Live Action: https://www.liveaction.org/
+12. Copts in Need: https://coptsinneed.org/
+13. Joshua Project: https://joshuaproject.net/
+14. Coptic Orphans: https://copticorphans.org/
+15. Jews for Jesus: https://jewsforjesus.org/
+16. Clarion Project: https://clarionproject.org/
+17. Fight the New Drug: https://fightthenewdrug.org/
+18. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance
 16. Fiverr: https://fiverr.com
