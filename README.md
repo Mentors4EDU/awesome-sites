@@ -5,7 +5,7 @@
 1. Addicting Games: https://www.addictinggames.com/
 2. QuickFlashGames.com: https://www.quickflashgames.com/
 
-## For Fun
+## For Fun 🤪
 3. Etsy: https://www.etsy.com
 4. Minds: https://www.minds.com
 5. Pexels: https://www.pexels.com/
