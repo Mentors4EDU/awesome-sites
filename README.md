@@ -24,7 +24,7 @@
 16. Fight the New Drug: https://fightthenewdrug.org/
 17. The Voice of the Martyrs: https://www.persecution.com/
 
-## Freelance
+## Freelance 💵
 18. Fiverr: https://fiverr.com
 19. Toptal: https://www.toptal.com/
 20. Upwork: https://www.upwork.com/
