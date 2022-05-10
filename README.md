@@ -14,7 +14,7 @@
 8. Turbosquid: https://www.turbosquid.com/
 9. Thingiverse: https://www.thingiverse.com/
 
-## Charities
+## Charities 🫶
 10. Live Action: https://www.liveaction.org/
 11. Copts in Need: https://coptsinneed.org/
 12. Joshua Project: https://joshuaproject.net/
