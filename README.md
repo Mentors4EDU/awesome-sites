@@ -31,7 +31,7 @@
 21. Seoclerks: https://www.seoclerks.com/
 22. Freelancer: https://www.freelancer.com/
 
-## For Developers
+## For Developers 💻
 23. npm: https://www.npmjs.com/
 24. PyPi: https://pypi.org/  
 25. PyPy: https://www.pypy.org/
