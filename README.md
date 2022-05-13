@@ -2,8 +2,9 @@
 **Some awesome websites**
 
 ## Games 🕹️
-1. Addicting Games: https://www.addictinggames.com/
-2. QuickFlashGames.com: https://www.quickflashgames.com/
+1. Atari Games: https://www.atari.com/
+2. Addicting Games: https://www.addictinggames.com/
+3. QuickFlashGames.com: https://www.quickflashgames.com/
 
 ## For Fun 🤪
 3. Etsy: https://www.etsy.com
