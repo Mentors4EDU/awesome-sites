@@ -8,36 +8,37 @@
 
 ## For Fun 🤪
 4. Etsy: https://www.etsy.com
-5. Minds: https://www.minds.com
-6. Pexels: https://www.pexels.com/
-7. Twitter: https://www.twitter.com/
-8. Sketchfab: https://www.sketchfab.com/
-9. Turbosquid: https://www.turbosquid.com/
-10. Thingiverse: https://www.thingiverse.com/
+5. eBay: https://www.ebay.com
+6. Minds: https://www.minds.com
+7. Pexels: https://www.pexels.com/
+8. Twitter: https://www.twitter.com/
+9. Sketchfab: https://www.sketchfab.com/
+10. Turbosquid: https://www.turbosquid.com/
+11. Thingiverse: https://www.thingiverse.com/
 
 ## Charities 🫶
-11. Live Action: https://www.liveaction.org/
-12. Copts in Need: https://coptsinneed.org/
-13. Joshua Project: https://joshuaproject.net/
-14. Coptic Orphans: https://copticorphans.org/
-15. Jews for Jesus: https://jewsforjesus.org/
-16. Clarion Project: https://clarionproject.org/
-17. Fight the New Drug: https://fightthenewdrug.org/
-18. The Voice of the Martyrs: https://www.persecution.com/
+12. Live Action: https://www.liveaction.org/
+13. Copts in Need: https://coptsinneed.org/
+14. Joshua Project: https://joshuaproject.net/
+15. Coptic Orphans: https://copticorphans.org/
+16. Jews for Jesus: https://jewsforjesus.org/
+17. Clarion Project: https://clarionproject.org/
+18. Fight the New Drug: https://fightthenewdrug.org/
+19. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance 💵
-19. Fiverr: https://fiverr.com
-20. Toptal: https://www.toptal.com/
-21. Upwork: https://www.upwork.com/
-22. Seoclerks: https://www.seoclerks.com/
-23. Freelancer: https://www.freelancer.com/
+20. Fiverr: https://fiverr.com
+21. Toptal: https://www.toptal.com/
+22. Upwork: https://www.upwork.com/
+23. Seoclerks: https://www.seoclerks.com/
+24. Freelancer: https://www.freelancer.com/
 
 ## For Developers 💻
-24. npm: https://www.npmjs.com/
-25. PyPi: https://pypi.org/  
-26. PyPy: https://www.pypy.org/
-27. GitLab: https://www.gitlab.com
-28. GitHub: https://www.github.com/
-29. Crates.io: https://crates.io/
-30. Bitbucket: https://bitbucket.org/
-31. Stack Overflow: https://stackoverflow.com/
+25. npm: https://www.npmjs.com/
+26. PyPi: https://pypi.org/  
+27. PyPy: https://www.pypy.org/
+28. GitLab: https://www.gitlab.com
+29. GitHub: https://www.github.com/
+30. Crates.io: https://crates.io/
+31. Bitbucket: https://bitbucket.org/
+32. Stack Overflow: https://stackoverflow.com/
