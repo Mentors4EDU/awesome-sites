@@ -24,23 +24,24 @@
 16. Coptic Orphans: https://copticorphans.org/
 17. Jews for Jesus: https://jewsforjesus.org/
 18. Clarion Project: https://clarionproject.org/
-19. Fight the New Drug: https://fightthenewdrug.org/
-20. The Voice of the Martyrs: https://www.persecution.com/
+19. The Philos Project: https://philosproject.org/
+20. Fight the New Drug: https://fightthenewdrug.org/
+21. The Voice of the Martyrs: https://www.persecution.com/
 
 ## Freelance 💵
-21. Fiverr: https://fiverr.com
-22. Toptal: https://www.toptal.com/
-23. Upwork: https://www.upwork.com/
-24. Seoclerks: https://www.seoclerks.com/
-25. Freelancer: https://www.freelancer.com/
-26. PeoplePerHour: https://www.peopleperhour.com/
+22. Fiverr: https://fiverr.com
+23. Toptal: https://www.toptal.com/
+24. Upwork: https://www.upwork.com/
+25. Seoclerks: https://www.seoclerks.com/
+26. Freelancer: https://www.freelancer.com/
+27. PeoplePerHour: https://www.peopleperhour.com/
 
 ## For Developers 💻
-27. npm: https://www.npmjs.com/
-28. PyPi: https://pypi.org/  
-29. PyPy: https://www.pypy.org/
-30. GitLab: https://www.gitlab.com
-31. GitHub: https://www.github.com/
-32. Crates.io: https://crates.io/
-33. Bitbucket: https://bitbucket.org/
-34. Stack Overflow: https://stackoverflow.com/
+28. npm: https://www.npmjs.com/
+29. PyPi: https://pypi.org/  
+30. PyPy: https://www.pypy.org/
+31. GitLab: https://www.gitlab.com
+32. GitHub: https://www.github.com/
+33. Crates.io: https://crates.io/
+34. Bitbucket: https://bitbucket.org/
+35. Stack Overflow: https://stackoverflow.com/
